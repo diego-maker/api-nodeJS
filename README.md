@@ -2,7 +2,7 @@
  
 <h2>Minha Primeira API em NodeJS<h2>
   
-   ![hippo](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif)
+   ![hippo](https://media.giphy.com/media/LO8ipFG7sfgAPRyJW7/giphy.gif)
       
 #Utilizei alguns serviços como:
   - SendGrid (Para envio de Emails)
