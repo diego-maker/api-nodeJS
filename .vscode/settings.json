@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/bf3eb2ec-946d-4610-9508-c75f0cc4cf82/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/nodediego"
+}
